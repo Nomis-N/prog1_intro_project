@@ -15,3 +15,7 @@ Mönstret som kulorna bildar i facken längst ner är i linje med normal fördel
 Uppdatera main.py så att programmet simulerar en galton bräda. Ditt programm skall skriva ut (eller på annat sätt illustrera) hur många kulor som hamnar i varje fack. 
 
 För högre betyg börjar programmet med att låta användaren mata in hur många nivåer galton brädan har samt hur många kulor som släpps. 
+
+### Tips
+* Om uppgiften känns svår börja med ett enkelt fall, så som en kula och en nivå. För att sedan jobba fram en mer allmän lösning.  
+* Committa och pusha ofta (jag vill se en koninuerlig utveckling av lösningen)
